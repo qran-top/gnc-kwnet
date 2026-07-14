@@ -1,0 +1,6 @@
+{
+  "name": "GNC Kuwait Coming Soon",
+  "description": "صفحة هبوط لموقع gnc-kw.net - الموقع قيد الإنشاء للتواصل والاستفسار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
